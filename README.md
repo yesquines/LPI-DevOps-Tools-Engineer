@@ -243,4 +243,5 @@ Kibana - Dashboard  |  https://www.elastic.co/guide/en/kibana/current/dashboard.
  30 best practices for logging at scale   |  https://www.loggly.com/blog/30-best-practices-logging-scale/
 
 **\*** See Grook filter
+
 **\*\*** See Email Alerting
