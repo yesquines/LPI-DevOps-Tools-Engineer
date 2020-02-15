@@ -18,7 +18,7 @@ API Glossary | http://apiglossary.com/
 Representational State Transfer (REST)  |  https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
 JSON API  |  https://jsonapi.org/
 OWASP - Cheat Sheet **\***  |  https://cheatsheetseries.owasp.org/  |
-OWASP - Attacks **\*** | https://owasp.org/www-community/attacks/ 
+OWASP - Attacks **\*** | https://owasp.org/www-community/attacks/
 ACID Properties and CAP Theoremes  | https://www.quora.com/What-is-the-relation-between-SQL-NoSQL-the-CAP-theorem-and-ACID
 Agile Manifesto  |  http://agilemanifesto.org/
 Martin Fowler - Agile Software Guide  |  https://martinfowler.com/agile.html
