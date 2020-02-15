@@ -14,19 +14,18 @@ Martin Fowler - Microservices  |  https://martinfowler.com/articles/microservice
 Martin Fowler - Immutable Server|  https://martinfowler.com/bliki/ImmutableServer.html
 Martin Fowler - Monoliths and Coupling  |  https://martinfowler.com/articles/dont-start-monolith.html
 RESTful.io  |  https://restful.io/objects-at-rest-part-1-what-is-it-3e26f0978616
+API Glossary | http://apiglossary.com/
+Representational State Transfer (REST)  |  https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
 JSON API  |  https://jsonapi.org/
-OWASP - XSS  |  https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
-OWASP - SQL Injection  |  https://www.owasp.org/index.php/SQL_Injection
 OWASP - Cheat Sheet*****  |  https://cheatsheetseries.owasp.org/
-OWASP - CSRF  | https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)
-OWASP - Error Handling, Auditing and Logging  |  https://www.owasp.org/index.php/Error_Handling,_Auditing_and_Logging
+OWASP - Attacks***** | https://owasp.org/www-community/attacks/
 ACID Properties and CAP Theoremes  | https://www.quora.com/What-is-the-relation-between-SQL-NoSQL-the-CAP-theorem-and-ACID
 Agile Manifesto  |  http://agilemanifesto.org/
 Martin Fowler - Agile Software Guide  |  https://martinfowler.com/agile.html
 Martin Fowler - DevOps Culture  |  https://martinfowler.com/bliki/DevOpsCulture.html
 Martin Fowler - The Agile Fluency Model  |  https://martinfowler.com/articles/agileFluency.html
 
- **\*** See Authentication and Transport Layer Protection topics.
+ **\*** See Authentication, XSS, CSRF, SQL Injection, Error Handling and Transport Layer Protection topics.
 
 ### 701.2 Standard Components and Platforms for Software
 
