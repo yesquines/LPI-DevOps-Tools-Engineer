@@ -1,5 +1,5 @@
-**Study Links**
-===============
+**Links to Study**
+==================
 
 **Topic 701: Software Engineering**
 -------------------------------
@@ -17,8 +17,8 @@ RESTful.io  |  https://restful.io/objects-at-rest-part-1-what-is-it-3e26f0978616
 API Glossary | http://apiglossary.com/
 Representational State Transfer (REST)  |  https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
 JSON API  |  https://jsonapi.org/
-OWASP - Cheat Sheet*****  |  https://cheatsheetseries.owasp.org/
-OWASP - Attacks***** | https://owasp.org/www-community/attacks/
+OWASP - Cheat Sheet **\***  |  https://cheatsheetseries.owasp.org/  |
+OWASP - Attacks **\*** | https://owasp.org/www-community/attacks/ 
 ACID Properties and CAP Theoremes  | https://www.quora.com/What-is-the-relation-between-SQL-NoSQL-the-CAP-theorem-and-ACID
 Agile Manifesto  |  http://agilemanifesto.org/
 Martin Fowler - Agile Software Guide  |  https://martinfowler.com/agile.html
@@ -31,7 +31,7 @@ Martin Fowler - The Agile Fluency Model  |  https://martinfowler.com/articles/ag
 
 WebSite | URL
 ------- | ---
-OpenStack Services*****  |  https://www.openstack.org/software/project-navigator/openstack-components  |
+OpenStack Services **\***  |  https://www.openstack.org/software/project-navigator/openstack-components  |
 Cloud Foundry - Get Started | https://www.cloudfoundry.org/get-started/
 OpenShift - What Is?  |  https://www.openshift.com/learn/what-is-openshift
 OpenShift - Get Started  |  https://www.openshift.com/learn/get-started/
@@ -42,7 +42,7 @@ OpenShift - Get Started  |  https://www.openshift.com/learn/get-started/
 WebSite | URL
 ------- | ---
 Try GitHub  |  https://try.github.io/
-Git Book*****  |  https://git-scm.com/book/en/v2
+Git Book **\***  |  https://git-scm.com/book/en/v2
 Appendix C - Git Commands  | https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Setup-and-Config
 Git vs SVN  |  https://www.codeforest.net/git-vs-svn
 Martin Fowler - Version Control Tools  |  https://martinfowler.com/bliki/VersionControlTools.html
@@ -62,7 +62,7 @@ BlueGreen, A/B and Canary  |  https://blog.christianposta.com/deploy/blue-green-
 Jenkins - Getting Started  |  https://jenkins.io/doc/pipeline/tour/getting-started/
 Jenkinsfile  |  https://jenkins.io/doc/book/pipeline/jenkinsfile/
 Pipeline Syntax  |  https://jenkins.io/doc/book/pipeline/syntax/
-Jenkins Plugins*****  |  https://plugins.jenkins.io/
+Jenkins Plugins **\***  |  https://plugins.jenkins.io/
 
 **\*** See Git, Docker-Workflow, Docker Build Publish, CopyArtifact, Create Fingerprint and Credentials plugins.
 
@@ -131,7 +131,7 @@ WebSite | URL
 Vagrant - Introduction | https://www.vagrantup.com/intro/
 Vagrant - Getting Started  |  https://www.vagrantup.com/intro/getting-started/index.html
 Vagrantfile  |  https://www.vagrantup.com/docs/vagrantfile/
-Vagrant - Provisioning*****  |  https://www.vagrantup.com/docs/provisioning/
+Vagrant - Provisioning **\***  |  https://www.vagrantup.com/docs/provisioning/
 Vagrant - Multi-Machine  |  https://www.vagrantup.com/docs/multi-machine/
 
 **\*** See file, shell, Ansible and Docker provisioning.
@@ -160,15 +160,17 @@ Ansible - Getting Started  |  https://docs.ansible.com/ansible/latest/user_guide
 Ansible - Ad-Hoc Commands  |  https://docs.ansible.com/ansible/latest/user_guide/intro_adhoc.html
 Ansible - Inventory  |  https://docs.ansible.com/ansible/latest/user_guide/intro_inventory.html
 Ansible - Dynamic Inventory  |  https://docs.ansible.com/ansible/latest/user_guide/intro_dynamic_inventory.html
-Ansible - Playbooks*****  |  https://docs.ansible.com/ansible/latest/user_guide/playbooks.html
-Ansibel - Modules****** | https://docs.ansible.com/ansible/latest/modules/modules_by_category.html
+Ansible - Playbooks **\***  |  https://docs.ansible.com/ansible/latest/user_guide/playbooks.html
+Ansibel - Modules **\*\*** | https://docs.ansible.com/ansible/latest/modules/modules_by_category.html
 Ansible Vault  | https://docs.ansible.com/ansible/latest/user_guide/vault.html
-Ansible Galaxy**\*\*\***  |  https://docs.ansible.com/ansible/latest/reference_appendices/galaxy.html
+Ansible Galaxy **\*\*\***  |  https://docs.ansible.com/ansible/latest/reference_appendices/galaxy.html
 Ansible - Windows Guide  | https://docs.ansible.com/ansible/latest/user_guide/windows.html
 Ansible - BSD Support  |  https://docs.ansible.com/ansible/latest/user_guide/intro_bsd.html
 
 **\*** See Using Variables, Conditionals, Loops and Templating (Jinja2) topics
+
 **\*\*** See file, copy, template, ini_file, lineinfile, patch, replace, user, group, command, shell, service, systemd, cron, apt, debconf, yum, git and debug modules.
+
 **\*\*\*** https://galaxy.ansible.com/home
 
 ### 704.2 Other Configuration Management Tools
@@ -228,8 +230,8 @@ Understanting Syslog  |  https://www.networkmanagementsoftware.com/what-is-syslo
 Syslog Man | https://linux.die.net/man/5/syslog.conf  |
 LogStash - Syslog Input Plugins  |  https://www.elastic.co/guide/en/logstash/current/plugins-inputs-syslog.html
 LogStash - Input Plugins  | https://www.elastic.co/guide/en/logstash/current/input-plugins.html
-LogStash - Filter Plugins*****  |  https://www.elastic.co/guide/en/logstash/current/filter-plugins.html
-LogStash - OutPut Plugins**\*\***  |  https://www.elastic.co/guide/en/logstash/current/output-plugins.html
+LogStash - Filter Plugins **\***  |  https://www.elastic.co/guide/en/logstash/current/filter-plugins.html
+LogStash - OutPut Plugins **\*\***  |  https://www.elastic.co/guide/en/logstash/current/output-plugins.html
 ElasticSearch - Getting Started  |  https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html
 ElasticSearch - Index  |  https://www.elastic.co/blog/what-is-an-elasticsearch-index
 ElasticSearch - Retiring Data  |  https://www.elastic.co/guide/en/elasticsearch/guide/current/retiring-data.html
@@ -240,4 +242,5 @@ Kibana - Dashboard  |  https://www.elastic.co/guide/en/kibana/current/dashboard.
  30 best practices for logging at scale   |  https://www.loggly.com/blog/30-best-practices-logging-scale/
 
 **\*** See Grook filter
+
 **\*\*** See Email Alerting
